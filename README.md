@@ -1,3 +1,3 @@
 # Dogs_and_cats
 
-Dogs and Cats 
+This model classifies Dogs and Cats. 
