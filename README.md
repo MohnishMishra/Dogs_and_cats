@@ -1,3 +1,3 @@
 # Dogs_and_cats
 
-This model classifies Dogs and Cats. 
+This model will classify whether images contain either a dog or a cat using concepts of CNN. 
